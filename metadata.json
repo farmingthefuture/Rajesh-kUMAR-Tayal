@@ -1,0 +1,6 @@
+{
+  "name": "RKTAS Operational Portal",
+  "description": "An Agri-Tech portal and database for RKTAS, featuring a clean landing view, live visitor database spreadsheet, real-time analytics, and Apple-style AI chat integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
